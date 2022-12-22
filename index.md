@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+La Ciberseguridad como Derecho Humano
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Soy un estudiante apasionado por temas relacionados con el mundo digital.
+Un enfoque contra las injusticias en este mundo y contra los corruptos que tanto corroen el espiritu de bienestar humano.
+#Ciberseguridad #InfoSec
