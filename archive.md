@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog Archive
+title: Archivo de Blog
 ---
 
 {% for tag in site.tags %}
