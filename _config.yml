@@ -18,8 +18,8 @@ github_username: "DoxNala"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "minima"
-
+#theme: "minima"
+theme: "darkSystem"
 rss: rss
 
 kramdown:
