@@ -45,4 +45,4 @@ Para ser miembro de ChileanInfoSec, es necesario que los interesados cumplan con
 9. Una vez sea publicada la carta de presentación o columna de opinión, la persona que la envió será considerada miembro de la comunidad.
 10. Una vez que se sea miembro de la comunidad, debe respetar las reglas de la comunidad y las reglas de la página web de la comunidad, a sus miembros y a los demás miembros de la comunidad.
 # Post Tenebras Lux
-Tenemos un problema con la oscuridad en este mundo, los agentes de cambio siempre somos los jovenes, ya sea para bien o para mal. Pensar en ellos y apoyarlos para que su luz alumbre en medio de estas tiniebras.
+Tenemos un problema con la oscuridad en este mundo, los agentes de cambio siempre somos los jovenes y aquellos osados, ya sea para bien o para mal. Pensar en ellos y apoyarlos para que su luz alumbre en medio de estas tiniebras.
